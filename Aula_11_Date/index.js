@@ -96,3 +96,6 @@ console.log(natal.getYear());//114 --Retorna isso por que JS é da década de 90
 console.log(natal.getFullYear());//2014
 console.log(natal.getDay());//Dia da semana começando com 0 = Domingo, 1 Segunda, 2 Terça, 3 Quarta, 4 Quinta
 console.log(natal.getDate());
+
+//DOCUMENTAÇÃO
+//https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date
