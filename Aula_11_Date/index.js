@@ -99,3 +99,6 @@ console.log(natal.getDate());
 
 //DOCUMENTAÇÃO
 //https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date
+
+
+//https://www.ietf.org/rfc/rfc2822.txt
